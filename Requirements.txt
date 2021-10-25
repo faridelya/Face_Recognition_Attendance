@@ -1,0 +1,5 @@
+cv2
+numpy 
+face_recognition
+os
+datetime
